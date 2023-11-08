@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloTeskobar
 - 👀 I’m interested in banality
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Network Pen Testing 
 - 💞️ I’m looking to collaborate on anything what will bring abenefit to all of us
 - 📫 How to reach me just drop line 
 
